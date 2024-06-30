@@ -1,4 +1,4 @@
-# Используем официальный образ Python
+# Используем простейший образ Python
 FROM python:3.12.4-alpine3.20
 WORKDIR /app
 
